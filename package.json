@@ -1,0 +1,11 @@
+{
+  "name": "u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Writes the funniest one-line confession an AI agent could make, to /output/entry.txt",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
